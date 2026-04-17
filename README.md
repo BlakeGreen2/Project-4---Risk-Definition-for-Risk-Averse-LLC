@@ -35,10 +35,16 @@ The National Risk Index (NRI) defines risk as a combination of Expected Annual L
 
 Proposed Risk Definition
 -
-For this project, we define risk as an equally weight score derived from the average of Expected Annual Loss, Social Vulnerability, and the inverted Community Resilience.
+For this project, we define risk as an weighted score derived from the average of Expected Annual Loss, Social Vulnerability, and the inverted Community Resilience.
 The final risk score is calculated using this formula:
 
-**Risk Score = (EAL Percentile + Social Vulnerability Percentile + (100 - Community Resilience Percentile)) / 3**
+Hazard Score - Average of the lightning and drought NRI risk scores with a weight of 50%
+
+Social Vulnerability - SOVI Score with a weight of 30%
+
+Inverse Community Resilience - 100 minus the resilience score with a weight of 20%
+
+**Risk Score = (0.5 * Hazard Score) + (0.3 * SOVI Score) + (0.2 * (100 - Community Resilience Score))**
 
 ---
 
