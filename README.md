@@ -11,7 +11,7 @@ States Analyzed
 -
 -Iowa
 
--Wyoming
+-Wisconsin
 
 These states were selected due to having similar exposure to hazards/risks.
 
