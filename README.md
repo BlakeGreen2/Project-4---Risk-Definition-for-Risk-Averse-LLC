@@ -54,6 +54,9 @@ Contents
 - Annotated Code Document
 - Engineering Timesheet
 - Written Report
-- Raw Data Files (Multiple CSVs and a Shapefile)
+- *Raw Data Files (Multiple CSVs)
 - Python Code File
+
+
+*The shapefile used in the code is too large to be included in this repository but can be found online
 
