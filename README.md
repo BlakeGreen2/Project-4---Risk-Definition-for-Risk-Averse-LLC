@@ -54,6 +54,6 @@ Contents
 - Annotated Code Document
 - Engineering Timesheet
 - Written Report
-- Raw Data Files
+- Raw Data Files (Multiple CSVs and a Shapefile)
 - Python Code File
 
