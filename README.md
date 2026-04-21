@@ -49,9 +49,11 @@ Inverse Community Resilience - 100 minus the resilience score with a weight of 2
 ---
 
 Contents
--
--
--
--
--
+- Scope of Work
+- Gantt Chart
+- Annotated Code Document
+- Engineering Timesheet
+- Written Report
+- Raw Data Files
+- Python Code File
 
